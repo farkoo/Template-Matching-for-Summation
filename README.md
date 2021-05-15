@@ -11,3 +11,16 @@ The first step in solving this problem is to find the right patterns. Then, usin
 The accuracy of my method is **64%**.
 
 An example of running the program is attached.
+
+
+## Support
+
+**Contact me @:**
+
+e-mail:
+
+* farzanehkoohestani2000@gmail.com
+
+Telegram id:
+
+* [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
