@@ -13,7 +13,7 @@ The accuracy of my method is **64%**.
 An example of running the program is attached.
 
 <p align="right">
-<img src="https://github.com/farkoo/Template-Matching-for-Summation/blob/master/Test.png">
+<img src="https://github.com/farkoo/Template-Matching-for-Summation/blob/master/Test.png" height=400 width=600>
 </p>
 
 <p align="left">
