@@ -13,11 +13,11 @@ The accuracy of my method is **64%**.
 An example of running the program is attached.
 
 <p align="right">
-<img src="https://github.com/farkoo/Template-Matching-for-Summation/blob/master/Test.png" height=400 width=600>
+<img src="https://github.com/farkoo/Template-Matching-for-Summation/blob/master/Test.png" height=550 width=350>
 </p>
 
 <p align="left">
-<img src="https://github.com/farkoo/Template-Matching-for-Summation/blob/master/Result.png">
+<img src="https://github.com/farkoo/Template-Matching-for-Summation/blob/master/Result.png" height=550 width=350>
 </p>
 
 
