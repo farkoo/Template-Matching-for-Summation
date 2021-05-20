@@ -2,7 +2,7 @@
 
 In this program, using the pattern matching process, we try to add the Persian numbers in the text together and write the result at the bottom of the page.
 
-Numbers 0 to 9 in 4 different sizes are in different places in the images and the images are impregnated with different amounts of noise.
+Numbers 0 to 9 in 4 different sizes are in different places in the images and the images are impregnated with different amounts of salt and pepper noise.
 
 The first step in solving this problem is to find the right patterns. Then, using the **normxcorr2** function and selecting the appropriate Threshold, we investigate the occurrence of patterns in the image. It should be noted that due to the presence of salt and pepper noise in the image, the noise is first eliminated using the **median** function, and according to the initial amount of image noise, a suitable value is adopted for Threshold.
 
